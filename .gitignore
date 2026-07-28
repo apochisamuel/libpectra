@@ -1,0 +1,5 @@
+*.o
+*.a
+pocs/
+patches/
+BUGS.md
